@@ -11,11 +11,11 @@ I am majoring in Systems Analysis and Development at Center University IESB (Ins
 ###  Contact Me
 <div align="left">
   <a href="https://www.instagram.com/hiagocode/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Instagram-4731ec?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
   <a href="https://www.linkedin.com/in/hiagocarvalhoo/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-4731ec?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
 </div>
 
