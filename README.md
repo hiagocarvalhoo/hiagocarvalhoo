@@ -10,7 +10,7 @@ I am majoring in Systems Analysis and Development at Center University IESB (Ins
 
 ###  Contact Me
 <div align="left">
-  <a href="https://www.instagram.com/hiagocode/" alt="Instagram">
+  <a href="https://www.instagram.com/hiagocarvalho/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-4731ec?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
