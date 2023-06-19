@@ -1,0 +1,28 @@
+{
+   "data": [
+      {
+         "disciplina": "ADS030 - Manutenção de Software e DevOps",
+         "a1": 5.2,
+         "a2": 3.8,
+         "a3": 4.8
+      },
+      {
+         "disciplina": "ADS032 - Construção de Frontend",
+         "a1": 6.4,
+         "a2": 4.2,
+         "a3": null
+      },
+      {
+         "disciplina": "ADS038 - Governança de TI",
+         "a1": 1.5,
+         "a2": 6.5,
+         "a3": 3
+      },
+      {
+         "disciplina": "ADS040 - Business Intelligence e Data Warehousing",
+         "a1": 1.9,
+         "a2": 0,
+         "a3": null
+      }
+   ]
+}

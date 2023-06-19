@@ -1,0 +1,17 @@
+{
+  "name": "aluno-online",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "http-server ./ --port=5001 -c-1",
+        "tests": "cypress open"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  }
+}

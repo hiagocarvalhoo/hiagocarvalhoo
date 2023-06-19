@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "disciplina": "ADS030 - Manutenção de Software e DevOps",
+            "prova": "A1",
+            "situacao": "Deferido",
+            "estilo": "badge-success"
+        },
+        {
+            "id": 2,
+            "disciplina": "ADS038 - Governança de TI",
+            "prova": "A2",
+            "situacao": "Indeferido",
+            "estilo": "badge-danger"
+        }
+    ]
+}
