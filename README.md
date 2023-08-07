@@ -5,7 +5,7 @@ I am majoring in Systems Analysis and Development at Center University IESB (Ins
 
 ### Technologies
 
-- Front-end Development with HTML, CSS, Javascript, React and Tailwind
+- Front-end Development with HTML, CSS, Javascript, React and Bootstrap
 - Designer UX/UI
 
 ###  Contact Me
